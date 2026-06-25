@@ -1,6 +1,6 @@
-# 🎵 Music Bot
+# Music Bot
 
-Private self-hosted Discord music bot. YouTube + Spotify, search, queue, loop, shuffle.
+Private self-hosted Discord music bot. YouTube + Spotify, search, queue, loop, shuffle. No takedown BS.
 Code lives in [`music-bot/`](music-bot).
 
 ## Requirements

@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Secrets / environment
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS
+.DS_Store
+
+# Archives / build artifacts
+*.zip
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp

@@ -1,6 +1,7 @@
 # 🎵 Music Bot
 
 Private self-hosted Discord music bot. YouTube + Spotify, search, queue, loop, shuffle.
+Code lives in [`music-bot/`](music-bot).
 
 ## Requirements
 
@@ -21,6 +22,7 @@ Private self-hosted Discord music bot. YouTube + Spotify, search, queue, loop, s
 ## Config
 
 ```bash
+cd music-bot
 npm install
 cp .env.example .env     # then fill in DISCORD_TOKEN, CLIENT_ID, GUILD_ID
 ```

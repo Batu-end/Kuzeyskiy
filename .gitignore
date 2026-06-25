@@ -22,3 +22,6 @@ yarn-error.log*
 .vscode/
 .idea/
 *.swp
+
+# Private launcher
+run.command
